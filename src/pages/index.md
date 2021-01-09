@@ -1,30 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Looking to sell your property?
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Looking to sell your property?
+subheading: We'll buy your house in cash.
 mainpitch:
-  title: Why Kaldi
+  title: Why RBS Home Buyers?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Selling is difficult. The traditional process of selling a property is complicated. Here's why.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Process.
+  Nothing is more frustrating than finding a reliable buyer.
+
+  Most people don't understand the process of selling their property without a Realtor. The burden of organizing open houses, pricing analysis, and contractual agreements can be overwhelming.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Most people don't understand the process of selling their property without a Realtor. The burden of organizing open houses, pricing analysis, and contractual agreements can be overwhelming.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

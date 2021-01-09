@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: sen-regular
+font link: http://www.philatype.com/#sen
+font author: Philatype
+font author site: http://www.philatype.com/
+
+
+icon designer: Creative Stall
+icon designer link: /creativestall
+        
+
+fontColor: {"gradient-0":"#85ffc7","gradient-1":"#796eff"}
+bgColor: {"hex":"Transparent"}
+iconColor: {"gradient-0":"#85ffc7","gradient-1":"#796eff"}
+
+      

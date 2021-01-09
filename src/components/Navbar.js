@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import defaultLogo from '../img/default.svg'
+import Logo from '../img/brand/Logo'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,9 +43,13 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
+
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={defaultLogo} alt="RBS Home Buyers" style={{ width: '88px' }} />
+              RBS HomeBuyers
             </Link>
+
+            {/* <Logo /> */}
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -79,7 +85,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="https://github.com/rbshomebuyers/website"
                 target="_blank"
                 rel="noopener noreferrer"
               >
